@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="78.44" height="39.071" viewBox="0 0 78.44 39.071">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_25171" data-name="長方形 25171" width="78.44" height="39.071" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="グループ_35757" data-name="グループ 35757" transform="translate(0 0)">
+    <g id="グループ_35665" data-name="グループ 35665" clip-path="url(#clip-path)">
+      <path id="パス_17151" data-name="パス 17151" d="M11.768,39.071a27.453,27.453,0,0,1,54.9,0H78.44a39.22,39.22,0,0,0-78.44,0Z" fill="#eb6d80"/>
+      <path id="パス_17152" data-name="パス 17152" d="M11.768,39.071a27.453,27.453,0,0,1,54.9,0H76.48a37.26,37.26,0,0,0-74.52,0Z" fill="#f08c00"/>
+      <path id="パス_17153" data-name="パス 17153" d="M11.768,39.071a27.453,27.453,0,0,1,54.9,0h7.846a35.3,35.3,0,0,0-70.6,0Z" fill="#fcee21"/>
+      <path id="パス_17154" data-name="パス 17154" d="M11.767,39.071a27.453,27.453,0,0,1,54.9,0h5.883a33.336,33.336,0,0,0-66.67,0Z" fill="#5bb431"/>
+      <path id="パス_17155" data-name="パス 17155" d="M11.768,39.071a27.453,27.453,0,0,1,54.9,0H70.6a31.376,31.376,0,0,0-62.752,0Z" fill="#00aeeb"/>
+      <path id="パス_17156" data-name="パス 17156" d="M11.768,39.071a27.453,27.453,0,0,1,54.9,0h1.963a29.415,29.415,0,0,0-58.83,0Z" fill="#7774b4"/>
+    </g>
+  </g>
+</svg>
